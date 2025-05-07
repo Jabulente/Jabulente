@@ -1,9 +1,7 @@
 <h1 align="center">👋, I'm Jabulente</h1>
 
-# Who I am 
+I’m Jabulente, a passionate Data Analyst and Research Specialist with a background in Crop Science. My work bridges the gap between agricultural science and data science, using real-world data to solve complex problems in food systems, environmental sustainability, and rural development. Whether I’m building machine learning models, analyzing soil-crop interactions, or designing research frameworks, my goal is clear: to empower evidence-based decision-making through data.
 
-<p style='font-family: Colonna MT'>I am a data analyst with expertise in leveraging data science to extract actionable insights. With a strong foundation in analytics and statistical methods, I specialize in transforming complex datasets into meaningful solutions for decision-making and optimization.</p>
+<h4 align="center" font-family="Candara"> Graduate from University of Tutorial </h4>
 
-# Graduate from University of Tutorial 
-
-Perhaps of having a background in Mechatronics Engineering, I managed in someway to transform my hobby into career through thousands of hours spend on watching tutorials, reading books and blogs and building projects, nowdays I mainly work as a Software Engineer
+With a background in crop science, I somehow managed to turn a hobby into a career. Through thousands of hours spent watching tutorials, reading books and blogs, and building countless projects, I taught myself the skills needed to thrive in tech. Today, I primarily work as a Software Engineer, blending engineering logic with self-driven creativity.
