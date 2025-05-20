@@ -1,4 +1,4 @@
-<h1 align="center">👋, I'm Jabulente</h1>
+<h1 style='font-size: 15px'>👋, I'm Jabulente</h1>
 
 I’m Jabulente, a passionate Data Analyst and Research Specialist with a background in Crop Science. My work bridges the gap between agricultural science and data science, using real-world data to solve complex problems in food systems, environmental sustainability, and rural development. Whether I’m building machine learning models, analyzing soil-crop interactions, or designing research frameworks, my goal is clear: to empower evidence-based decision-making through data.
 
