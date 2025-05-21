@@ -1,4 +1,4 @@
-<h1 style="font-family: 'Segoe UI', sans-serif;">Hi, I'm Jabulente</h1>
+<h3 style="font-family: 'Segoe UI', sans-serif;">Hi, 👋 I'm Jabulente</h3>
 
 <p style="font-family: 'Candara', sans-serif;">
 I’m Jabulente, a dedicated <strong>Data Analyst</strong> and <strong>Research Specialist</strong> with a strong foundation in <strong>Crop Science</strong>. I bring together domain expertise in agriculture with modern data science practices to deliver insights that support sustainable agriculture, food systems improvement, and evidence-based policymaking. My approach involves exploring data patterns, extracting insights, and communicating findings clearly to support real-world solutions.
