@@ -4,7 +4,7 @@
 I’m Jabulente, a passionate <strong>Data Analyst</strong> and <strong>Research Specialist</strong> with a strong foundation in <strong>Crop Science</strong>. I combine domain knowledge in agriculture with cutting-edge data science techniques to help improve food systems, environmental sustainability, and rural livelihoods. My work focuses on transforming raw data into actionable insights for policymakers, researchers, and farmers alike.
 </p>
 
-<h4 align="center" style="font-family: Candara;">🎓 Graduate – Sokoine University of Agriculture</h4>
+<h4  style="font-family: Colonna MT;">🎓 Graduate – Sokoine University of Agriculture</h4>
 
 <p>
 With a degree in Crop Production and Management, I started my journey rooted in agricultural science. Over time, my curiosity led me to technology. I spent countless hours watching tutorials, reading books, and experimenting with data to teach myself programming, data analysis, and machine learning. Today, I blend my agricultural expertise with advanced analytical skills to make a measurable impact.
