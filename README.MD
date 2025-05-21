@@ -42,5 +42,12 @@ With a degree in Crop Production and Management, I started my journey rooted in 
 
 <h3>📫 Let's Connect</h3>
 <p>
-I’m always open to new ideas, collaborations, or just a good conversation about data, agriculture, or tech. You can reach out to me on <strong>LinkedIn</strong>, <strong>GitHub</strong>, or via <strong>Email</strong>.
+I’m always open to new ideas, collaborations, or just a good conversation about data, agriculture, or tech. You can reach out to me on.
 </p>
+
+<div align="center">  
+
+[![GitHub](https://img.shields.io/badge/GitHub-Jabulente-black?logo=github)](https://github.com/Jabulente)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jabulente-blue?logo=linkedin)](https://linkedin.com/in/jabulente-208019349)  [![Email](https://img.shields.io/badge/Email-jabulente@hotmail.com-red?logo=gmail)](mailto:Jabulente@hotmail.com)  
+
+</div>
+
