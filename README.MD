@@ -1,4 +1,5 @@
-<h3 style="font-family: 'Segoe UI', sans-serif;">Hi, 👋 I'm Jabulente</h3>
+<h3 style="font-family: 'Segoe UI', sans-serif; text-align: center;">Hi, 👋 I'm Jabulente</h3>
+<hr>
 
 <p style="font-family: 'Candara', sans-serif;">
 I’m Jabulente, a dedicated <strong>Data Analyst</strong> and <strong>Research Specialist</strong> with a strong foundation in <strong>Crop Science</strong>. I bring together domain expertise in agriculture with modern data science practices to deliver insights that support sustainable agriculture, food systems improvement, and evidence-based policymaking. My approach involves exploring data patterns, extracting insights, and communicating findings clearly to support real-world solutions.
@@ -7,8 +8,9 @@ I’m Jabulente, a dedicated <strong>Data Analyst</strong> and <strong>Research 
 <h3 style="font-family: 'Colonna MT', serif;">Educational Background</h3>
 
 <p style="font-family: 'Candara', sans-serif;">
-With formal training in Crop Production and Management, I developed a deep understanding of agricultural systems and ecological interactions. My passion for problem-solving led me to explore programming and analytics, ultimately building a multidisciplinary career that bridges science, research, and technology.
+My journey began with a degree in Crop Production and Management, where I developed a strong foundation in agricultural science and a deep understanding of ecological systems. Over time, my passion for problem-solving sparked a growing curiosity for technology. I immersed myself in learning—spending countless hours watching tutorials, reading books, and experimenting with data—to teach myself programming, data analysis, and machine learning. This pursuit of knowledge allowed me to build a multidisciplinary career that bridges science, research, and technology. Today, I combine my agricultural expertise with advanced analytical skills to drive measurable impact in data-driven agricultural solutions.
 </p>
+
 
 <h3 style="font-family: 'Segoe UI', sans-serif;">What I Do</h3>
 
