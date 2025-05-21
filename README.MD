@@ -11,7 +11,7 @@
 
 </div>
 
-
+<samp>
 <p style="font-family: 'Candara', sans-serif;">
 I’m Jabulente, a dedicated <strong>Data Analyst</strong> and <strong>Research Specialist</strong> with a strong foundation in <strong>Crop Science</strong>. I bring together domain expertise in agriculture with modern data science practices to deliver insights that support sustainable agriculture, food systems improvement, and evidence-based policymaking. My approach involves exploring data patterns, extracting insights, and communicating findings clearly to support real-world solutions.
 </p>
@@ -57,6 +57,7 @@ My journey began with a degree in Crop Production and Management, where I develo
 <p style="font-family: 'Candara', sans-serif;">
 I'm always open to new ideas, collaborations, and meaningful discussions in data science, research, or agriculture. Let’s connect:
 </p>
+</samp>
 
 <div align="center">  
   <a href="https://github.com/Jabulente"><img src="https://img.shields.io/badge/GitHub-Jabulente-black?logo=github" alt="GitHub Badge"></a>
