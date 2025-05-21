@@ -1,4 +1,4 @@
-<h3 style="font-family: 'Segoe UI', sans-serif; text-align: center;">Hi, 👋 I'm Jabulente</h3>
+<h1 style="font-family: 'Segoe UI', sans-serif; text-align: center;">Hi, 👋 I'm Jabulente</h1>
 <hr>
 
 <p style="font-family: 'Candara', sans-serif;">
