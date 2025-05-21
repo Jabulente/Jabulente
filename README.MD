@@ -1,14 +1,5 @@
 <h1 align = "center">Hi, 👋 I'm Jabulente</h1>
 
-<div align="center">  
-  <a href="https://github.com/Jabulente"><img src="https://img.shields.io/badge/GitHub-Jabulente-black?logo=github" alt="GitHub Badge"></a>
-  <a href="https://komarev.com/ghpvc/?username=Jabulente&color=blueb" alt="Profile views"></a>
-  <a href="https://img.shields.io/github/followers/Jabulente?label=Follow&style=social" alt="GitHub followers"></a>
-  <a href="https://img.shields.io/github/stars/Jabulente/your-repo-name?style=social" alt="GitHub stars"></a>
-  <a href="https://linkedin.com/in/jabulente-208019349"><img src="https://img.shields.io/badge/LinkedIn-Jabulente-blue?logo=linkedin" alt="LinkedIn Badge"></a>
-  <a href="mailto:Jabulente@hotmail.com"><img src="https://img.shields.io/badge/Email-jabulente@hotmail.com-red?logo=gmail" alt="Email Badge"></a>
-</div>
-
 
 <div align="center"> 
 
