@@ -1,15 +1,46 @@
-<h1 style='font-size: 15px'>👋, I'm Jabulente</h1>
+<h1 style="font-size: 20px;">👋 Hi, I'm Jabulente</h1>
 
-I’m Jabulente, a passionate Data Analyst and Research Specialist with a background in Crop Science. My work bridges the gap between agricultural science and data science, using real-world data to solve complex problems in food systems, environmental sustainability, and rural development. Whether I’m building machine learning models, analyzing soil-crop interactions, or designing research frameworks, my goal is clear: to empower evidence-based decision-making through data.
+<p>
+I’m Jabulente, a passionate <strong>Data Analyst</strong> and <strong>Research Specialist</strong> with a strong foundation in <strong>Crop Science</strong>. I combine domain knowledge in agriculture with cutting-edge data science techniques to help improve food systems, environmental sustainability, and rural livelihoods. My work focuses on transforming raw data into actionable insights for policymakers, researchers, and farmers alike.
+</p>
 
-<h4 align="center" font-family="Candara"> Graduate from University of Tutorial </h4>
+<h4 align="center" style="font-family: Candara;">🎓 Graduate – Sokoine University of Agriculture</h4>
 
-With a background in crop science, I somehow managed to turn a hobby into a career. Through thousands of hours spent watching tutorials, reading books and blogs, and building countless projects, I taught myself the skills needed to thrive in tech. Today, I primarily work as a Software Engineer, blending engineering logic with self-driven creativity.
+<p>
+With a degree in Crop Production and Management, I started my journey rooted in agricultural science. Over time, my curiosity led me to technology. I spent countless hours watching tutorials, reading books, and experimenting with data to teach myself programming, data analysis, and machine learning. Today, I blend my agricultural expertise with advanced analytical skills to make a measurable impact.
+</p>
 
+<h3>💼 What I Do</h3>
 
+<ul>
+  <li>📊 <strong>Data Analysis & Visualization:</strong> From raw spreadsheets to interactive dashboards, I use tools like Python, R, and Power BI to uncover trends and tell compelling stories with data.</li>
+  <li>🧪 <strong>Research Design:</strong> I design and implement research studies in agriculture, particularly focused on soil health, crop productivity, and environmental monitoring.</li>
+  <li>🧠 <strong>Machine Learning:</strong> I build predictive models for crop yield forecasting, disease diagnosis from symptoms, sentiment analysis from farmer reviews, and more.</li>
+  <li>🗺️ <strong>Geospatial Analysis:</strong> I use GIS and spatial data to map agricultural patterns, biodiversity, and land-use dynamics for better regional planning.</li>
+  <li>📝 <strong>Report Automation & Statistical Reporting:</strong> I automate workflows and generate statistical reports to streamline decision-making.</li>
+</ul>
 
-#### What I'm good at
+<h3>🚀 Tools & Technologies</h3>
 
-I have rich experience in analyzing complex datasets to develop data-driven solutions that inform decision-making and drive impact. I specialize in data visualization, statistical modeling, machine learning, and geospatial analysis using tools like Python and R. I’ve worked on diverse projects involving trend analysis, predictive modeling, sentiment analysis, and report automation—helping clients and teams uncover insights, optimize processes, and solve real-world problems through clean, interpretable data.
+<ul>
+  <li><strong>Languages:</strong> Python, R, SQL, JavaScript (basic)</li>
+  <li><strong>Libraries:</strong> pandas, NumPy, matplotlib, seaborn, scikit-learn, statsmodels, tidyverse</li>
+  <li><strong>Data Tools:</strong> Power BI, Excel, Google Sheets</li>
+  <li><strong>Geospatial:</strong> QGIS, GeoPandas, Folium</li>
+  <li><strong>Others:</strong> Git, LaTeX, Markdown, Jupyter Notebooks</li>
+</ul>
 
+<h3>🌱 Fields of Interest</h3>
 
+<ul>
+  <li>Agri-tech and smart farming</li>
+  <li>Sustainable development and food security</li>
+  <li>Climate change and environmental analytics</li>
+  <li>Health of soils and nutrient cycling</li>
+  <li>Machine learning for social good</li>
+</ul>
+
+<h3>📫 Let's Connect</h3>
+<p>
+I’m always open to new ideas, collaborations, or just a good conversation about data, agriculture, or tech. You can reach out to me on <strong>LinkedIn</strong>, <strong>GitHub</strong>, or via <strong>Email</strong>.
+</p>
