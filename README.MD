@@ -1,28 +1,28 @@
-<h1 style="font-size: 20px;">👋 Hi, I'm Jabulente</h1>
+<h1 style="font-size: 24px; font-family: 'Segoe UI', sans-serif;">Hi, I'm Jabulente</h1>
 
-<p>
-I’m Jabulente, a passionate <strong>Data Analyst</strong> and <strong>Research Specialist</strong> with a strong foundation in <strong>Crop Science</strong>. I combine domain knowledge in agriculture with cutting-edge data science techniques to help improve food systems, environmental sustainability, and rural livelihoods. My work focuses on transforming raw data into actionable insights for policymakers, researchers, and farmers alike.
+<p style="font-family: 'Candara', sans-serif;">
+I’m Jabulente, a dedicated <strong>Data Analyst</strong> and <strong>Research Specialist</strong> with a strong foundation in <strong>Crop Science</strong>. I bring together domain expertise in agriculture with modern data science practices to deliver insights that support sustainable agriculture, food systems improvement, and evidence-based policymaking. My approach involves exploring data patterns, extracting insights, and communicating findings clearly to support real-world solutions.
 </p>
 
-<h4  style="font-family: Colonna MT;">🎓 Graduate – Sokoine University of Agriculture</h4>
+<h3 style="font-family: 'Colonna MT', serif;">Educational Background</h3>
 
-<p>
-With a degree in Crop Production and Management, I started my journey rooted in agricultural science. Over time, my curiosity led me to technology. I spent countless hours watching tutorials, reading books, and experimenting with data to teach myself programming, data analysis, and machine learning. Today, I blend my agricultural expertise with advanced analytical skills to make a measurable impact.
+<p style="font-family: 'Candara', sans-serif;">
+With formal training in Crop Production and Management, I developed a deep understanding of agricultural systems and ecological interactions. My passion for problem-solving led me to explore programming and analytics, ultimately building a multidisciplinary career that bridges science, research, and technology.
 </p>
 
-<h3>💼 What I Do</h3>
+<h3 style="font-family: 'Segoe UI', sans-serif;">What I Do</h3>
 
-<ul>
-  <li>📊 <strong>Data Analysis & Visualization:</strong> From raw spreadsheets to interactive dashboards, I use tools like Python, R, and Power BI to uncover trends and tell compelling stories with data.</li>
-  <li>🧪 <strong>Research Design:</strong> I design and implement research studies in agriculture, particularly focused on soil health, crop productivity, and environmental monitoring.</li>
-  <li>🧠 <strong>Machine Learning:</strong> I build predictive models for crop yield forecasting, disease diagnosis from symptoms, sentiment analysis from farmer reviews, and more.</li>
-  <li>🗺️ <strong>Geospatial Analysis:</strong> I use GIS and spatial data to map agricultural patterns, biodiversity, and land-use dynamics for better regional planning.</li>
-  <li>📝 <strong>Report Automation & Statistical Reporting:</strong> I automate workflows and generate statistical reports to streamline decision-making.</li>
+<ul style="font-family: 'Candara', sans-serif;">
+  <li><strong>Data Exploration & Visualization:</strong> I interpret complex datasets and present them in intuitive visual formats to help teams understand key trends and make informed decisions.</li>
+  <li><strong>Research Analysis:</strong> I support and execute research by applying statistical methods to assess data accuracy, uncover insights, and produce evidence-backed conclusions.</li>
+  <li><strong>Statistical Modeling:</strong> I use various modeling techniques to evaluate patterns, assess relationships, and forecast outcomes based on reliable data.</li>
+  <li><strong>Data Management & Automation:</strong> I streamline repetitive tasks through automation and maintain clean, organized, and accessible data pipelines.</li>
+  <li><strong>Geospatial Analysis:</strong> I work with spatial data to map and analyze environmental or agricultural variables, supporting geographical insights and planning.</li>
 </ul>
 
-<h3>🚀 Tools & Technologies</h3>
+<h3 style="font-family: 'Segoe UI', sans-serif;">Tools & Technologies</h3>
 
-<ul>
+<ul style="font-family: 'Candara', sans-serif;">
   <li><strong>Languages:</strong> Python, R, SQL, JavaScript (basic)</li>
   <li><strong>Libraries:</strong> pandas, NumPy, matplotlib, seaborn, scikit-learn, statsmodels, tidyverse</li>
   <li><strong>Data Tools:</strong> Power BI, Excel, Google Sheets</li>
@@ -30,24 +30,23 @@ With a degree in Crop Production and Management, I started my journey rooted in 
   <li><strong>Others:</strong> Git, LaTeX, Markdown, Jupyter Notebooks</li>
 </ul>
 
-<h3>🌱 Fields of Interest</h3>
+<h3 style="font-family: 'Segoe UI', sans-serif;">Fields of Interest</h3>
 
-<ul>
+<ul style="font-family: 'Candara', sans-serif;">
   <li>Agri-tech and smart farming</li>
   <li>Sustainable development and food security</li>
-  <li>Climate change and environmental analytics</li>
-  <li>Health of soils and nutrient cycling</li>
-  <li>Machine learning for social good</li>
+  <li>Climate and environmental analytics</li>
+  <li>Soil health and nutrient cycling</li>
+  <li>Data-driven decision-making for rural development</li>
 </ul>
 
-<h3>📫 Let's Connect</h3>
-<p>
-I’m always open to new ideas, collaborations, or just a good conversation about data, agriculture, or tech. You can reach out to me on.
+<h3 style="font-family: 'Segoe UI', sans-serif;">Let's Connect</h3>
+<p style="font-family: 'Candara', sans-serif;">
+I'm always open to new ideas, collaborations, and meaningful discussions in data science, research, or agriculture. Let’s connect:
 </p>
 
 <div align="center">  
-
-[![GitHub](https://img.shields.io/badge/GitHub-Jabulente-black?logo=github)](https://github.com/Jabulente)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jabulente-blue?logo=linkedin)](https://linkedin.com/in/jabulente-208019349)  [![Email](https://img.shields.io/badge/Email-jabulente@hotmail.com-red?logo=gmail)](mailto:Jabulente@hotmail.com)  
-
+  <a href="https://github.com/Jabulente"><img src="https://img.shields.io/badge/GitHub-Jabulente-black?logo=github" alt="GitHub Badge"></a>
+  <a href="https://linkedin.com/in/jabulente-208019349"><img src="https://img.shields.io/badge/LinkedIn-Jabulente-blue?logo=linkedin" alt="LinkedIn Badge"></a>
+  <a href="mailto:Jabulente@hotmail.com"><img src="https://img.shields.io/badge/Email-jabulente@hotmail.com-red?logo=gmail" alt="Email Badge"></a>
 </div>
-
