@@ -11,11 +11,13 @@
 
 
 <div align="center"> 
+
 ![Profile views](https://komarev.com/ghpvc/?username=Jabulente&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/Jabulente?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Jabulente/your-repo-name?style=social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/jabulente-208019349)
 [![Email](https://img.shields.io/badge/Email-Jabulente@hotmail.com-red?logo=gmail)](mailto:Jabulente@hotmail.com)
+
 </div>
 
 
