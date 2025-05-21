@@ -9,6 +9,17 @@
   <a href="mailto:Jabulente@hotmail.com"><img src="https://img.shields.io/badge/Email-jabulente@hotmail.com-red?logo=gmail" alt="Email Badge"></a>
 </div>
 
+### 📊 GitHub Stats & Badges
+
+![Profile views](https://komarev.com/ghpvc/?username=Jabulente&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/Jabulente?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Jabulente/your-repo-name?style=social)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/jabulente-208019349)
+[![Email](https://img.shields.io/badge/Email-Jabulente@hotmail.com-red?logo=gmail)](mailto:Jabulente@hotmail.com)
+
+
+
 <p style="font-family: 'Candara', sans-serif;">
 I’m Jabulente, a dedicated <strong>Data Analyst</strong> and <strong>Research Specialist</strong> with a strong foundation in <strong>Crop Science</strong>. I bring together domain expertise in agriculture with modern data science practices to deliver insights that support sustainable agriculture, food systems improvement, and evidence-based policymaking. My approach involves exploring data patterns, extracting insights, and communicating findings clearly to support real-world solutions.
 </p>
