@@ -59,8 +59,11 @@ I'm always open to new ideas, collaborations, and meaningful discussions in data
 </p>
 </samp>
 
+----
 <div align="center">  
   <a href="https://github.com/Jabulente"><img src="https://img.shields.io/badge/GitHub-Jabulente-black?logo=github" alt="GitHub Badge"></a> |
   <a href="https://linkedin.com/in/jabulente-208019349"><img src="https://img.shields.io/badge/LinkedIn-Jabulente-blue?logo=linkedin" alt="LinkedIn Badge"></a> | 
   <a href="mailto:Jabulente@hotmail.com"><img src="https://img.shields.io/badge/Email-jabulente@hotmail.com-red?logo=gmail" alt="Email Badge"></a>
 </div>
+
+----
